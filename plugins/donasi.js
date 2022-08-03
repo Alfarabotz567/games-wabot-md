@@ -5,7 +5,7 @@ let handler =  m => m.reply(`
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-│ • https://saweria.co/BochilGaming
+│ • https://saweria.co/Irfaan567
 │ • Dana [089531704997]
 ╰────
 `.trim()) // Tambah sendiri kalo mau
